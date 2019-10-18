@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f627f283-c59a-4f6d-a8da-641d0ec4ca34" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1SGYFP90nVY6I1WckeBsWzEDaYt" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHPStudy\phpstudy_pro\WWW\imooc\core" />
+      <recent name="D:\PHPStudy\phpstudy_pro\WWW\imooc\core\common" />
+      <recent name="D:\PHPStudy\phpstudy_pro\WWW\imooc\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f627f283-c59a-4f6d-a8da-641d0ec4ca34" name="Default Changelist" comment="" />
+      <created>1571191295405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571191295405</updated>
+      <workItem from="1571191299531" duration="6981000" />
+      <workItem from="1571205257202" duration="4395000" />
+      <workItem from="1571274910213" duration="2574000" />
+      <workItem from="1571277942326" duration="1879000" />
+      <workItem from="1571280074059" duration="10908000" />
+      <workItem from="1571305802542" duration="801000" />
+      <workItem from="1571361511768" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
