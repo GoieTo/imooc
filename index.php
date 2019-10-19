@@ -8,8 +8,8 @@
 
 define('IMOOC',realpath('D:\PHPStudy\phpstudy_pro\WWW\imooc'));
 define('CORE',IMOOC.'/core');
-define('APP',IMOOC.'/APP');
-
+define('APP',IMOOC.'/app');
+define('MODULE','app');
 define('DEBUG',true);
 
 if(DEBUG) {
