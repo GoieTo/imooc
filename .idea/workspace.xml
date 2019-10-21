@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f627f283-c59a-4f6d-a8da-641d0ec4ca34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/config/route.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/lib/conf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ctrl/indexCtrl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/ctrl/indexCtrl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/imooc.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/imooc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/lib/model.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/lib/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/route.php" afterDir="false" />
-    </list>
+    <list default="true" id="f627f283-c59a-4f6d-a8da-641d0ec4ca34" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +59,7 @@
       <workItem from="1571305802542" duration="801000" />
       <workItem from="1571361511768" duration="7558000" />
       <workItem from="1571453797535" duration="13003000" />
-      <workItem from="1571625966345" duration="1562000" />
+      <workItem from="1571625966345" duration="1809000" />
     </task>
     <servers />
   </component>
