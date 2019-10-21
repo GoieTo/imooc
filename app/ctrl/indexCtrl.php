@@ -1,14 +1,14 @@
 <?php
 namespace app\ctrl;
 
-class indexCtrl
+class indexCtrl extends \core\imooc
 {
     public function index()
     {
-        $model = new \core\lib\model();
-        $sql = "select * from user";
-        $ret = $model->query($sql);
-        p($ret->fetchAll());
-        p($_SERVER);
+        $temp = new \core\lib\model();
+        print_r($temp);
+        $data = "Hello World";
+        $this->assign('data',$data);
+        $this->display('index.html');
     }
 }
