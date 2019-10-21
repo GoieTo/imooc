@@ -1,0 +1,14 @@
+{
+    "name": "goieto/imooc",
+    "description": "composer test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "GoieTo",
+            "email": "513146642@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
