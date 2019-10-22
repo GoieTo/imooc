@@ -12,12 +12,18 @@ define('APP',IMOOC.'/app');
 define('MODULE','app');
 define('DEBUG',true);
 
-if(DEBUG) {
-    ini_set('display_errors','On');
-} else {
-    ini_set('display_errors','Off');
+include 'vendor/autoload.php';
+if(DEBUG)
+{
+    $whoops = new \Whoops\Run;
+    $whoops->prependHandler(new \Whoops\Handler\PrettyPageHandler);
+    $whoops->register();
+    ini_set('display_error', 'on');
 }
-
+else
+{
+    ini_set('display_error','off');
+}
 include CORE.'/common/function.php';
 
 include CORE.'/imooc.php';

@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f627f283-c59a-4f6d-a8da-641d0ec4ca34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ceshi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/lib/drive/log/file.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/lib/drive/log/mysql.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/lib/log.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/imooc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/imooc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ctrl/indexCtrl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/ctrl/indexCtrl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ceshi.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/config/log.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/imooc.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/imooc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +21,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
@@ -19,14 +30,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1SGYFP90nVY6I1WckeBsWzEDaYt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHPStudy\phpstudy_pro\WWW\imooc\core\lib\drive" />
       <recent name="D:\PHPStudy\phpstudy_pro\WWW\imooc\core" />
       <recent name="D:\PHPStudy\phpstudy_pro\WWW\imooc\core\common" />
       <recent name="D:\PHPStudy\phpstudy_pro\WWW\imooc\lib" />
@@ -62,7 +84,10 @@
       <workItem from="1571305802542" duration="801000" />
       <workItem from="1571361511768" duration="7558000" />
       <workItem from="1571453797535" duration="13003000" />
-      <workItem from="1571625966345" duration="3195000" />
+      <workItem from="1571625966345" duration="12345000" />
+      <workItem from="1571706517325" duration="4759000" />
+      <workItem from="1571733731549" duration="1637000" />
+      <workItem from="1571736451852" duration="1054000" />
     </task>
     <servers />
   </component>
